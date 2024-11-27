@@ -1,5 +1,5 @@
 # MCFRL
-This work "Momentum-Based Contextual Federated Reinforcement Learning" has been submitted in ToN.
+This work "Momentum-Based Contextual Federated Reinforcement Learning" has been accepted by ToN.
 ## :page_facing_up: Description
 we propose a new FRL method, \emph{Momentum-based Contextual Federated Reinforcement Learning} (), capable of jointly optimizing both the interaction and communication complexities while coping with the environment or task heterogeneities.
 ## :wrench: Dependencies
