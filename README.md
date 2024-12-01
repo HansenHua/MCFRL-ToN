@@ -1,7 +1,7 @@
 # MCFRL
 This work "Momentum-Based Contextual Federated Reinforcement Learning" has been accepted by ToN.
 ## :page_facing_up: Description
-we propose a new FRL method, \emph{Momentum-based Contextual Federated Reinforcement Learning} (), capable of jointly optimizing both the interaction and communication complexities while coping with the environment or task heterogeneities.
+we propose a new FRL method, \emph{Momentum-based Contextual Federated Reinforcement Learning} (MCFRL), capable of jointly optimizing both the interaction and communication complexities while coping with the environment or task heterogeneities.
 ## :wrench: Dependencies
 - Python == 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch == 1.8.1](https://pytorch.org/)
