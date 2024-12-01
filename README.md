@@ -10,7 +10,7 @@ we propose a new FRL method, \emph{Momentum-based Contextual Federated Reinforce
 ### Installation
 1. Clone repo
     ```bash
-    git clone [https://github.com/HansenHua/MCFRL.git](https://github.com/HansenHua/MCFRL.git)
+    git clone [https://github.com/HansenHua/MCFRL-ToN.git](https://github.com/HansenHua/MCFRL-ToN.git)
     cd code
     ```
 2. Install dependent packages
@@ -73,8 +73,8 @@ You could adapt it to your own needs.
 	```
 2. Illustration
 
-We alse provide the performance of our model. The illustration videos are stored in [MCFRL-Online-Federated-Reinforcement-Learning/performance](https://github.com/HansenHua/MCFRL/tree/main/performance).
+We alse provide the performance of our model. The illustration videos are stored in [MCFRL--ToN/performance](https://github.com/HansenHua/MCFRL-ToN/tree/main/performance).
 
 ## :e-mail: Contact
 
-If you have any question, please email `xingyuanhua@bit.edu.cn`.
+If you have any question, please email `huaxy24@mails.tsinghua.edu.cn`.
